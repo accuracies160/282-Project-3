@@ -12,7 +12,7 @@ public class Tour {
         }
     }
 
-    private Map<String, List<Edge>> graph = new HashMap<>();
+    private final Map<String, List<Edge>> graph = new HashMap<>();
     private int bestCost = Integer.MAX_VALUE;
     private List<String> bestPath = new ArrayList<>();
 

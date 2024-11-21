@@ -1,1 +1,6 @@
-This is the github page for programming project 3, I have it set to public as a test
+This is the GitHub page for Programming Project 3
+Group Members: Andrew Page, Bella Felipe, Odelia Sheelo, Vardges Gasparyan
+Tour - Andrew Page
+Driver/Assembly/Troubleshooting - Bella Felipe
+Patrol - Odelia Sheelo
+Travel - Vardges Gasparyan

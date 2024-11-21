@@ -1,4 +1,4 @@
-# This is the GitHub page for Programming Project 3
+# Programming Project 3
 Group Members: Andrew Page, Bella Felipe, Odelia Sheelo, Vardges Gasparyan
 
 Tour - Andrew Page
